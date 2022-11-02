@@ -1,8 +1,11 @@
 # C - Sorting algorithms & Big O
 
+
 > **This is ALX collaboration project on Sorting algorithms & Big O between Eki Victory and Georginia Nwaneri**
 
+
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png)
+
 
 ## General Requirement
 - Allowed editors: vi, vim, emacs
