@@ -113,7 +113,7 @@ Function Prototype:
   * [2-selection_sort.c](./2-selection_sort.c): C function that sorts an array of integers in ascending order using the Selection Sort algorithm.
   * Prints the array after each swap.
   * [2-O](./2-O): Text file containing the best, average, and worst case time complexities of the Selection Sort algorithm, one per line.
-  https://youtu.be/Ns4TPTC8whw
+![alt text](https://youtu.be/Ns4TPTC8whw)
 
 * **3. Quick sort**
   * [3-quick_sort.c](./3-quick_sort.c): C function that sorts an array of integers in ascending order using the Quick Sort algorithm.
